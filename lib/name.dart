@@ -10,6 +10,7 @@ class Name extends StatelessWidget {
       name,
       style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
       //test
+      //this is a test line
     );
   }
 }
